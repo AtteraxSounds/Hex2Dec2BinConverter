@@ -1,4 +1,4 @@
-package hblib.svg;
+package hblib.io.svg;
 
 import java.io.File;
 

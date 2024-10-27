@@ -1,4 +1,4 @@
-package hblib.console;
+package hblib.io.console;
 
 public class ReadConsole_Test {
 

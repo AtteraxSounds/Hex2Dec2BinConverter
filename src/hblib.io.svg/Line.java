@@ -1,4 +1,4 @@
-package hblib.svg;
+package hblib.io.svg;
 
 /**
  * SVG line from point A to point B.

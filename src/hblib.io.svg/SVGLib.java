@@ -1,4 +1,4 @@
-package hblib.svg;
+package hblib.io.svg;
 
 import hblib.io.file.LibIOFile;
 
